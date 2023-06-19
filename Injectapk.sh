@@ -1,6 +1,6 @@
 #!/bin/bash
 # Inject Payload in Android APK
-# Created By Mehedi Shakeel
+# Created By jantus143star
 clear
 cat << EOF
   _____       _           _              _____  _  __
@@ -11,9 +11,9 @@ cat << EOF
  |_____|_| |_| |\___|\___|\__| /_/    \_\_|    |_|\_\ 
             _/ |                                     
            |__/                 Version : 1.0
-                             Created By : Mehedi Shakeel
-                                YouTube : yt/mehedishakeel                   
-EOF
+                             Created By : jantus
+                                github:  github.com/jantus143           
+EOF 
 sleep 2
 
 
